@@ -7,7 +7,7 @@ print(myplayer) # this is the value of this player
 myplayer = 'Messi'
 print(myplayer) # Messi
 
-# myvar  # Traceback (most recent call last):  #  File "c:\Users\pgold\MatsHub\30-days-of-Python\class_notes\variables.py", line 10, in <module>
+myvar  # Traceback (most recent call last):  #  File "c:\Users\pgold\MatsHub\30-days-of-Python\class_notes\variables.py", line 10, in <module>
 #     myvar
 # NameError: name 'myvar' is not defined
 
@@ -15,12 +15,9 @@ print(myplayer) # Messi
 
 # to look at the identity of a function use: id()
 
-myvar  #  Traceback (most recent call last):
-        # File "c:\Users\pgold\MatsHub\30-days-of-Python\class_notes\variables.py", line 18, in <module>
-        #     myvar
-        # NameError: name 'myvar' is not defined
 
+var2 = 1
 
-
+id(var1)
 
 

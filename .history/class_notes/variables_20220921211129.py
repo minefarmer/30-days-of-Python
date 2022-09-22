@@ -15,11 +15,6 @@ print(myplayer) # Messi
 
 # to look at the identity of a function use: id()
 
-myvar  #  Traceback (most recent call last):
-        # File "c:\Users\pgold\MatsHub\30-days-of-Python\class_notes\variables.py", line 18, in <module>
-        #     myvar
-        # NameError: name 'myvar' is not defined
-
 
 
 

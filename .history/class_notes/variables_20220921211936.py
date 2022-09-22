@@ -22,5 +22,3 @@ myvar  #  Traceback (most recent call last):
 
 
 
-
-

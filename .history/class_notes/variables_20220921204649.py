@@ -1,0 +1,1 @@
+myvariable = 'this is the value'
