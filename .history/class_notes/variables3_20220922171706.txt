@@ -1,0 +1,53 @@
+bpython version 0.21 on top of Python 3.9.2 /usr/bin/python3
+>>> str1 = 'a string'
+>>> print(str1)
+a string
+>>> str2 = "this is another string"
+>>> print(str2)
+this is another string
+>>> str1 = 'you\'re'
+>>> pr
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+    pr
+NameError: name 'pr' is not defined
+>>> print(str1
+... )
+you're
+>>> s
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+    s
+NameError: name 's' is not defined
+>>> country = 'New Zealand'
+>>> country[0]
+'N'
+>>> country[1]
+'e'
+>>> country[3]
+' '
+>>> country[-1]
+'d'
+>>> country[-12]
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+    country[-12]
+IndexError: string index out of range
+>>> country[-2]
+'n'
+>>> fiest_letter = country[0]
+>>> print(first-letter)
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+    print(first-letter)
+NameError: name 'first' is not defined
+>>> print(first_letter)
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+    print(first_letter)
+NameError: name 'first_letter' is not defined
+>>> first_letter = country[0]
+>>> print(first_letter)
+N
+>>> 
+
